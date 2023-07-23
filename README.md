@@ -1,4 +1,4 @@
-## Flutter_Ripple_Animation_appin a Map Application Design - Day 5
+## Flutter_Ripple_Animation_appin
 
 ```dart
 class Afgprogrammer extends Flutter100DaysOfCode {
